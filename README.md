@@ -1,2 +1,1 @@
-# Cubes-Auto-Clicker
-Cubes-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
